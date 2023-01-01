@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wasif Ali</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 💬 Ask me about **Java,Nodejs**
 
 - 📫 How to reach me **wasif.ali@medznmore.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 💬 Ask me about **Java,Nodejs**
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/m_wasif_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_wasif_a" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wasif-ali994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasif-ali994" height="30" width="40" /></a>
 </p>
